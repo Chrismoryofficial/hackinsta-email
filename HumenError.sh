@@ -1,5 +1,5 @@
 #!/bin/bash
-#Made By SamadBloch The Malicious
+#Made By chrismory
 
 
 trap 'printf "\n";stop;exit 1' 2
@@ -22,12 +22,12 @@ echo "
                      ███    ███   ███    ███ ███   ███   ███   ███    ███ ███   ███ 
                      ███    █▀    ████████▀   ▀█   ███   █▀    ██████████  ▀█   █▀ Error 
                                     
-                                 -_-  Made By SamadBloch The Malicious -_-                   
+                                 -_-  Made By chrismory -_-                   
                                                                                                                                                         
 
 "
-echo "[1] Instagram:- https://instagram.com/im_malicious"
-echo "[2] Twitter:-   https://twitter.com/Malicious_Coder"
+echo "[1] Instagram:- https://instagram.com/chrismoryofficial"
+echo "[2] Twitter:-   https://twitter.com/chrismorytoh"
 echo ""
 echo "This Tool is only for educational perposes Use this tool at your"
 echo "own risk the author is not responsible for your any miss use of "
