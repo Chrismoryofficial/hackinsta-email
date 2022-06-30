@@ -1,11 +1,10 @@
 # HumenError
-## Author: github.com/samadbloch
-## Credit For Some Code: github.com/thelinuxchoice
-## IG: instagram.com/linux_choice
-## IG: instagram.com/samad_bl0ch
-## tt: twitter.com/Malicious_Coder
+## Author: github.com/chrismoryofficial
+## Credit For Some Code: github.com/chrismoryempire
+## IG: instagram.com/chrismoryofficial
+## tt: twitter.com/chrismorytoh
 ### Don't copy this code without give us credits, nerd! 
-### Instagram webpage made by Malicious (https://github.com/samadbloch)
+### Instagram webpage made by Malicious (https://github.com/chrismoryofficial)
 
 Phishing Tool for advance instagram copyright infringement attack 
 
