@@ -26,8 +26,8 @@ echo "
                                                                                                                                                         
 
 "
-echo "[1] Instagram:- https://instagram.com/chrismoryofficial"
-echo "[2] Twitter:-   https://twitter.com/chrismorytoh"
+echo "[1] Instagram:- https://instagram.com/chrismory_sr"
+echo "[2] Twitter:-   https://twitter.com/chrismory_sr"
 echo ""
 echo "This Tool is only for educational perposes Use this tool at your"
 echo "own risk the author is not responsible for your any miss use of "
