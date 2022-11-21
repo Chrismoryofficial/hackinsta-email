@@ -25,8 +25,9 @@ Usage of HumenError for attacking targets without prior mutual consent is illega
 ![](https://raw.githubusercontent.com/samadbloch/HumenError/master/sites/screenshots/image3.png)
 ![](https://raw.githubusercontent.com/samadbloch/HumenError/master/sites/screenshots/image4.png)
 ### Usage:
-```
-git clone https://github.com/samadbloch/HumenError.git
+
+https://github.com/Chrismoryofficial/hackinsta-email
+
 cd HumenError
 chmod +x HumenError.sh
 bash HumenError.sh
